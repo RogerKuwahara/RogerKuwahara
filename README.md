@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Roger Kuwahara 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogerhideki/)
+	[!Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hidekiroger@gmail.com)
 
 
 ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerKuwahara&show_icons=true&theme=radical)
