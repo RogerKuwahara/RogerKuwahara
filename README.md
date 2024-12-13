@@ -16,4 +16,4 @@
 </div></br>
 
 ## Contato
-[Entre em contato](mailto:hidekiroger@gmail.com)
+[Entre em contato 📨](mailto:hidekiroger@gmail.com)
